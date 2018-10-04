@@ -1,4 +1,4 @@
-# Dealing With Missing Data Quiz
+# Dealing with Missing Data - Quiz
 
 ## Introduction
 
