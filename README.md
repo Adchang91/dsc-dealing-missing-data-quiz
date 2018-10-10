@@ -17,11 +17,11 @@ This quiz is to check your understanding for strategies we've covered for detect
 
 ?: How does pandas represent missing values when displaying a DataFrame or Series object?
 
-( )
+(X)
 ```python
   NaN
 ```
-(X)
+( )
 ```python
 Null
 ```
