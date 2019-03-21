@@ -8,7 +8,7 @@ This quiz is to check your understanding for strategies we've covered for detect
 
 <h1>Missing Data Quiz</h1>
 
-?: Which of following is a problem that missing data could cause?
+?: Which of the following is a problem that missing data could cause?
 
 ( ) Some visualizations will not work with missing data
 (X) Some types of data cleaning steps won't work with null values
@@ -52,7 +52,7 @@ some_dataframe.isna()
 ( ) `some_dataframe.is_na().sum()`
 ( ) `some_dataframe.value_counts.is_na()`
 
-?:  Select all the correct code snippets that returns the unique values for a given column.
+?:  Select all the correct code snippets that return the unique values for a given column.
 
 [ ] `some_dataframe.get_unique_values()`
 [ ] `some_dataframe.unique()`
