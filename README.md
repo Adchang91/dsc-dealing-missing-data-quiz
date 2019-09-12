@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This quiz is to check your understanding for strategies we've covered for detecting and dealing with missing data.
+This quiz is to check your understanding of strategies we've covered for detecting and dealing with missing data.
 
 ???
 
